@@ -59,7 +59,7 @@ Add more social features to our single player experiences
 - CEO
 
 ### Stakeholder Matrix
-![Stakeholder Matrix](.\Gaming\assets\Matrix.png)
+![Stakeholder Matrix](.\assets\Matrix.png)
 
 ## Part 3: Agile Mini-Project
 ### Project Vision Statement
@@ -79,7 +79,7 @@ We are going to build a game launcher and store front to consolidate our platfor
 **Product owner** = As a product owner I want to produce a successful product that incentivises new users to join the platform and monetises our existing user base more effectively so that I can maximise company revenue. 
 
 ### Wireframe 
-![Homepage Wireframe](.\Gaming\assets\homepage.png)
+![Homepage Wireframe](.\assets\homepage.png)
 
 ## Sprint Planning
 ### Product backlog
